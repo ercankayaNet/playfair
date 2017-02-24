@@ -1,0 +1,9 @@
+C:\Users\Ercan\AppData\Local\Temporary Projects\Şifreleme\bin\Debug\Şifreleme.exe.config
+C:\Users\Ercan\AppData\Local\Temporary Projects\Şifreleme\bin\Debug\Şifreleme.exe
+C:\Users\Ercan\AppData\Local\Temporary Projects\Şifreleme\bin\Debug\Şifreleme.pdb
+C:\Users\Ercan\AppData\Local\Temporary Projects\Şifreleme\obj\Debug\Şifreleme.csprojResolveAssemblyReference.cache
+C:\Users\Ercan\AppData\Local\Temporary Projects\Şifreleme\obj\Debug\Şifreleme.Form1.resources
+C:\Users\Ercan\AppData\Local\Temporary Projects\Şifreleme\obj\Debug\Şifreleme.Properties.Resources.resources
+C:\Users\Ercan\AppData\Local\Temporary Projects\Şifreleme\obj\Debug\Şifreleme.csproj.GenerateResource.Cache
+C:\Users\Ercan\AppData\Local\Temporary Projects\Şifreleme\obj\Debug\Şifreleme.exe
+C:\Users\Ercan\AppData\Local\Temporary Projects\Şifreleme\obj\Debug\Şifreleme.pdb
